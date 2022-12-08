@@ -22,4 +22,5 @@ I'm a simple computer engineering student in process
   <a href="https://www.linkedin.com/in/bruno-santos-b58824229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
+  
 </div>
